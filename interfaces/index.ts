@@ -8,3 +8,11 @@ export type User = {
   id: number
   name: string
 }
+
+declare global {
+  interface Window {
+    ethereum: any
+    Web3Eth: any
+    web3: any
+  }
+}
