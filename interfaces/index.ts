@@ -16,3 +16,11 @@ export type User = {
 //     web3: any
 //   }
 // }
+
+// declare global {
+//   interface Window {
+//     ethereum: any
+//     Web3Eth: any
+//     web3: any
+//   }
+// }
