@@ -1,48 +1,37 @@
-import { useEffect, useState } from "react";
-import Web3 from "web3";
+import {
+  FunctionComponent,
+  createContext,
+  useContext,
+  useEffect,
+  useState,
+} from "react";
+import { Web3State, createDefaultState } from "./utils";
+import { ethers } from "ethers";
 
-const web3Provider = () => {
-  const [web3Api, setWeb3Api] = useState({
-    provider: null,
-    web3: null,
-  });
+const Web3Context = createContext<Web3State>(createDefaultState());
 
-  const [account, setAccount] = useState(null);
-
+const Web3Provider: FunctionComponent = ({ children }) => {
+  const [web3Api, setWeb3Api] = useState<Web3State>(createDefaultState());
   useEffect(() => {
-    const provider = async () => {
-      let provider = null;
-
-      if (window.ethereum) {
-        provider = window.ethereum;
-        try {
-          await provider.enable();
-        } catch {
-          console.error("User Denied Access!");
-        }
-      } else if (window.Web3Eth) {
-        provider = window.web3.currentProvider;
-      } else if (!process.env.production) {
-        provider = new Web3.providers.HttpProvider("http://localhost:7545");
-      }
+    function initWeb3() {
+      const provider = new ethers.BrowserProvider(window.ethereum);
 
       setWeb3Api({
-        web3: new Web3(provider),
+        ethereum: window.ethereum,
         provider,
+        contract: null,
+        isLoading: null,
       });
-    };
-
-    provider();
-  }, []);
-
-  useEffect(() => {
-    const getAccount = async () => {
-      const accounts = await web3Api.web3.eth.getAccounts();
-      setAccount(accounts[0]);
-    };
-
-    web3Api.web3 && getAccount();
-  }, [web3Api.web3]);
+    }
+    initWeb3();
+  });
+  return (
+    <Web3Context.Provider value={web3Api}>{children}</Web3Context.Provider>
+  );
 };
 
-export default web3Provider;
+export function useWeb3() {
+  return useContext(Web3Context);
+}
+
+export default Web3Provider;

@@ -9,10 +9,10 @@ export type User = {
   name: string
 }
 
-declare global {
-  interface Window {
-    ethereum: any
-    Web3Eth: any
-    web3: any
-  }
-}
+// declare global {
+//   interface Window {
+//     ethereum: any
+//     Web3Eth: any
+//     web3: any
+//   }
+// }

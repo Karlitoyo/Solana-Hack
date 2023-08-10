@@ -34,3 +34,7 @@
   height: 400px;
   background: white;
 }
+
+.navbar-end {
+  margin-right: 50px;
+}
