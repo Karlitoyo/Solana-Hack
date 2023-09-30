@@ -1,9 +1,3 @@
-.footer {
-  background-color: rgba(255, 255, 255, 1) 100%;
-  height: 300px;
-  /* clip-path: polygon(50% 0, 100% 50%, 50% 100%, 0 50%); */
-}
-
 .header {
   background: linear-gradient(
     90deg,
@@ -19,6 +13,8 @@
 }
 .container > div {
   flex: 1; /*grow*/
+  align-items: center;
+  justify-content: center;
 }
 
 .pepe {
@@ -37,4 +33,15 @@
 
 .navbar-end {
   margin-right: 50px;
+}
+
+.box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 50px 40px
+}
+
+.mid-lend-page {
+  padding: 50px 0px;
 }
