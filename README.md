@@ -18,9 +18,10 @@ assets back at the loan price. This can create a scenario whereby should the loc
 
 > ## Project implementation
 Tech stack:
-- [Anchor](https://project-serum.github.io/anchor/getting-started/introduction.html) - Solana smart contract framework
 - [React](https://reactjs.org/) - Front end framework
-- [Solana](https://solana.com/) - Blockchain
+- [Ethereum]([https://solana.com/](https://ethereum.org/en/) - Blockchain
+- [Daisy UI](https://daisyui.com/) - CSS Framework
+- [Foundry](https://github.com/foundry-rs/foundry) - Testing Framework
 
  > ## UX
 
