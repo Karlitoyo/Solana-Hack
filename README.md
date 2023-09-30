@@ -14,7 +14,7 @@ assets back at the loan price. This can create a scenario whereby should the loc
 <p align="center">
   <img width="900" height="600" src="Eth-Hack-visual.drawio.png">
 </p>
-<!-- ![Alt text](solanahackathon-Page-1.drawio.png) -->
+<!-- ![Alt text](eth-Page-1.drawio.png) -->
 
 > ## Project implementation
 Tech stack:
@@ -76,15 +76,13 @@ current mortgage holders who are struggling to meet regular repayments or who ma
 
 We currently have a vault contract created which has different templates for accounts such as vault, loan and working logic for account interaction.
 
-This allows users to create vaults, deposit, withdraw and borrow from the contract. We have utilized the Anchor Solana smart contract framework for development.
+This allows users to create vaults, deposit, withdraw and borrow from the contract. We have utilized the Solidity smart contract framework for development.
 
 We have a Next.js frontend and Tailwind Daisy UI for styling.
 
 ## Further Development
 
-We encountered challenges with the creation of PDA's (programme driven accounts). The specific issue we faced related to our knowledge of the Solana development enviornment and being able to accesss the required knowledge for our contract interactions with durable nonces. Our intention with the service is to make use of recurring payments and durable nonces enables this feature, however within the timeframe we ecountered challenges in implementing this feature.
-
-We are continuing to devleop this product and we are confident with engagement and further dicsussion with Solana dev's we can achieve this. Many example projects within the Solana eco-system are not focused on our specific use case and as such this created speed bumps in our development.
+-to be updated
 
 > ## User-Stories
 
