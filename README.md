@@ -103,7 +103,7 @@ Borrower has digital asset to the value of €1100 which the user places against
 decides not to continue with the repayment of the loan. The asset + €500 paid in the 5 monthly installments revert to the lender.
 
 > ## Instruction pipeline
-![Alt text](solanahackathon-Instructions.drawio.png)
+![Alt text](EthLondon-Instructions.drawio.png)
 
 > ## SWOT
 
@@ -132,12 +132,8 @@ assets reducing leaving investor open to losses, similar to impairement loss cur
 
 > ## How to run
 
-`anchor build` - build smart contracts
+`npm install` / `yarn install` - install dependencies
 
-`anchor test` - test contract
-
-`anchor deploy` -  deploy
-
-`yarn install`
+`npm run dev` -  deploy
 
 Front end is in `frontend` folder (Next.js-app).
