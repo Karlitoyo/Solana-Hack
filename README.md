@@ -18,7 +18,7 @@ assets back at the loan price. This can create a scenario whereby should the loc
 
 > ## Project implementation
 Tech stack:
-- [React](https://reactjs.org/) - Front end framework
+- [Next](https://nextjs.org/) - Front end framework
 - [Ethereum](https://ethereum.org/en/) - Blockchain
 - [Daisy UI](https://daisyui.com/) - CSS Framework
 - [Foundry](https://github.com/foundry-rs/foundry) - Testing Framework
