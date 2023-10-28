@@ -2,9 +2,9 @@
 
 > ## Abstract
 Bank Boss is designed at its core to be simplistic and user friendly with the capability to allow borrowers and lenders to leverage their assets
-to create a decentralized platform to release equity from their assets within the crypto eco-system. Currently individuals have a lengthy process to exit the market and in many instances do not wish to
-sell their positions for loss or for perceived loss. Bank Boss will allow them to lock their tokens at an agreed amount and make regular payments to recieve their 
-assets back at the loan price. This can create a scenario whereby should the locked asset increase in value to a greater amount within the duration of the loan agreement the borrower can realize the original value and take advantage of the increase in asset price once the loan + interest has been paid in full.
+to create a decentralized platform to release equity from assets held within the crypto eco-system. Currently individuals have a lengthy process to exit the market and in many instances do not wish to
+sell their positions for loss; or for perceived loss. Bank Boss will allow them to lock their tokens at an agreed amount and make regular payments to recieve their 
+assets back at the initial loan price plus interest. This creates a scenario whereby should the locked asset increase in value to a greater amount within the duration of the loan agreement the borrower can realize the original value and take advantage of the increase in asset price once the loan + interest has been paid in full.
 
 > ## Team Members
 - [Karl Timmins](https://github.com/Karlitoyo)
