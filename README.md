@@ -28,7 +28,7 @@ Tech stack:
 
  > ## UX
 
-The UX has been designed to be simple and with the aim of targeting the most all types of users from people with little to no previous experience in financial markets and lending, to seasoned defi users. The UX is created to easily encouraging users to provide liquidity and connect to the platform.
+The UX has been designed to be simple and with the aim of targeting every type of user, from people with little to no previous experience in financial markets and lending, to seasoned defi users. The UX is created to be straight forward and encourage users to provide liquidity and connect with the platform.
 
 ## Users
 
