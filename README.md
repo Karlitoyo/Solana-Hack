@@ -38,7 +38,7 @@ profile is based on bank account users within our targeted demographic. Any indi
 ## Strategy
 
 Initial strategy will be to target crypto users who currently require cash for their assests and migrate users from centralized exchanges. This will allow individuals to
-retain their assets at the price agreed when taking the loan and to repay the loan to redeem their asset.
+retain their assets at the price agreed when taking the loan and to repay the loan to redeem their asset. There is a mechanism built into the contract to mitigate exchange rate risk due to fluxuations in asset price. Should the asset price drop below a specific treshold the borrower is required to fund their position to keep the loan 'alive'. This ensures volatility in the market is managed and lenders and borrowers are rotected against wild swings in assets prices which can occur in all markets during periods of volatility.
 
 ## Scope
 
