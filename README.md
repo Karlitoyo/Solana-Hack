@@ -28,7 +28,7 @@ Tech stack:
 
  > ## UX
 
-The UX has been designed to be simple and with the aim of targeting the most all types of users from people with little to no previous experience in financial markets and lending, to seasoned defi users. The UX is created to easily encouraging users to provide liquidity and connect to the platform. 
+The UX has been designed to be simple and with the aim of targeting the most all types of users from people with little to no previous experience in financial markets and lending, to seasoned defi users. The UX is created to easily encouraging users to provide liquidity and connect to the platform.
 
 ## Users
 
@@ -77,15 +77,13 @@ current mortgage holders who are struggling to meet regular repayments or who ma
 
 ## Development
 
-We currently have a vault contract created which has different templates for accounts such as vault, loan and working logic for account interaction.
+We currently have 3 vault contracts created which have different time periods for 6 month time lock, 12 month time lock and 24 month time lock.
 
-This allows users to create vaults, deposit, withdraw and borrow from the contract. We have utilized the Solidity smart contract framework for development.
-
-We have a Next.js frontend and Tailwind Daisy UI for styling.
+This gives users (both lenders and borrowers) the flexibility to choose a time period which best suits their needs. The users can also redeem early (which incurrs a fee).
 
 ## Further Development
 
--to be updated
+We currently have development plans to include a machine learning algorithm to track users payments through social logins and provide preferable rates of interest should they disclose their identity via the platform. This will allow us to create credit scoring models based on a user's on chain activity.
 
 > ## User-Stories
 
