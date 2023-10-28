@@ -22,6 +22,9 @@ Tech stack:
 - [Ethereum](https://ethereum.org/en/) - Blockchain
 - [Daisy UI](https://daisyui.com/) - CSS Framework
 - [Foundry](https://github.com/foundry-rs/foundry) - Testing Framework
+- [EtherSpot](https://etherspot.io/) - Account Abstraction / Transaction Bundling
+- [Flare](https://flare.network/) - On chain Oracles
+- [WormHole](https://wormhole.com/) - Cross Chain
 
  > ## UX
 
