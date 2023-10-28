@@ -109,7 +109,7 @@ decides not to continue with the repayment of the loan. The asset + €500 paid 
 - Strengths
 
 Personal finances applications market is an increasing market. Recent analysis by Statista -
-(https://www.statista.com/outlook/298/109/personal-finance/united-states)
+(https://www.statista.com/statistics/1256249/worldwide-personal-finance-software-market-revenues/)
 indicates market growth to over €1 Billion in value by 2023 in the United States alone. A growth of 25%
 from its current position.
 
