@@ -12,7 +12,7 @@ assets back at the initial loan price plus interest. This creates a scenario whe
 
 > ## High-level overview of the project
 <p align="center">
-  <img width="900" height="600" src="Eth-london-diagram.jpeg">
+  <img width="900" height="600" src="https://github.com/Karlitoyo/BossBank-EthLondon/blob/main/eth-london-diagram.jpg">
 </p>
 <!-- ![Alt text](eth-Page-1.drawio.png) -->
 
