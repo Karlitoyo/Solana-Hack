@@ -79,9 +79,15 @@ current mortgage holders who are struggling to meet regular repayments or who ma
 
 ## Development
 
-We currently have 3 vault contracts created which have individual time periods for duration - 6 month time lock, 12 month time lock and 24 month time lock.
+We currently have 3 vault contracts created which have individual time periods for duration - 
+
+ - 6 month time lock
+ - 12 month time lock
+ - 24 month time lock
 
 This gives users (both lenders and borrowers) the flexibility to choose a time period which best suits their needs. The users can also redeem early (which incurrs a fee).
+
+
 
 ## Further Development
 
