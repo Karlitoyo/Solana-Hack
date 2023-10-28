@@ -85,8 +85,7 @@ We currently have 3 vault contracts created which have individual time periods f
  - 12 month time lock
  - 24 month time lock
 
-This gives users (both lenders and borrowers) the flexibility to choose a time period which best suits their needs. The users can also redeem early (which incurrs a fee).
-
+This gives users (both lenders and borrowers) the flexibility to choose a time period which best suits their needs. The users can also redeem early (which incurrs a fee). Borrowers have the ability to deposit assets as collateral and withdraw funds based on the total LTV calculated and floating interest rate as shown on the dashbord UI. Users can log into the application using account abstraction and also track asset prices.
 
 
 ## Further Development
