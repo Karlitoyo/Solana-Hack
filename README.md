@@ -7,8 +7,8 @@ sell their positions for loss or for perceived loss. Bank Boss will allow them t
 assets back at the loan price. This can create a scenario whereby should the locked asset increase in value to a greater amount within the duration of the loan agreement the borrower can realize the original value and take advantage of the increase in asset price once the loan + interest has been paid in full.
 
 > ## Team Members
-- [Vadzim Mahilny](https://github.com/MIDAV0)
 - [Karl Timmins](https://github.com/Karlitoyo)
+- [Aqib Hassan](https://github.com/aqibhassan)
 
 > ## High-level overview of the project
 <p align="center">
