@@ -138,19 +138,19 @@ assets reducing leaving investor open to losses, similar to impairement loss cur
 
 > ## Deployed contracts: 
 
-# Sample asset token -
+## Sample asset token -
 
 https://goerli.etherscan.io/token/0x9bfadcd7f4e48be85ba9ec70094a62017c6c73a8#code
 
-# Lending NFT contract -
+## Lending NFT contract -
 
 https://goerli.etherscan.io/address/0xc308e1ee919182964c4ba6981d111c53bea631a8#code
 
-# Sample Collateral Token -
+## Sample Collateral Token -
 
 https://goerli.etherscan.io/address/0xff063796c38a2ad3411e96b7bd12ffb9755a068e#code
 
-# Main Platform token -
+## Main Platform token -
 
 https://goerli.etherscan.io/address/0x6a0d5d3e8d54aa453e62c4d1da566dc55f7b940a/advanced#code
 
