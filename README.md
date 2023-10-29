@@ -125,11 +125,11 @@ The system has numerous strengths which include simple user-friendly UI making u
 
 - Weaknesses (Challenges)
 
-Challenges identified predominantly relate to smart contract development, further challenges relate to the volatility of the crypto market and asset fluctuations. Our appraoch to mititgate this is to accept assets that do not fluctuate wildly in our first iteration of the service.
+Challenges identified predominantly relate to smart contract development, bounty integration and time for development. We are confident we can overcome development challenges with time to allow for a full scale offering ready for mainnet deployment.
 
 - Opportunities
 
-Similiar models are in practice currently however make use of differing strategies to lend. Lending within the crypto eco-system is not fully adopted however this is an area within the space which will become more prevalent as the industry matures.
+Similiar models are in practice currently however, competiors make use of differing strategies when lending. Lending within the crypto eco-system is not fully adopted however this is an area within the space which will become more prevalent as the industry matures.
 
 - Threats
 
