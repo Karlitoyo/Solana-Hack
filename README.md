@@ -1,9 +1,9 @@
 # EthLondon-2023
 
 > ## Abstract
-Bank Boss is designed at its core to be simplistic and user friendly with the capability to allow borrowers and lenders to leverage their assets
+Defi Bank is designed at its core to be simplistic and user friendly with the capability to allow borrowers and lenders to leverage their assets
 to create a decentralized platform releasing equity from assets held within the crypto eco-system. Currently individuals have a lengthy process to exit the market and in many instances do not wish to
-sell their positions for a loss; or for a perceived loss. Bank Boss will allow them to lock their tokens at an agreed amount and make regular payments to recieve their 
+sell their positions for a loss; or for a perceived loss. Defi Bank will allow them to lock their tokens at an agreed amount and make regular payments to recieve their 
 assets back at the initial loan price plus interest. This creates a scenario whereby should the locked asset increase in value to a greater amount within the duration of the loan agreement the borrower can realize the original value and take advantage of the increase in asset price once the loan + interest has been paid in full.
 
 > ## Team Members
@@ -99,7 +99,7 @@ We currently have development plans to include a machine learning algorithm to t
 Middle income user who has difficulty meeting loan obligations and struggles with regular savings -
 
 Individual who holds crypto assets requires stablecoin loan to make payment for an upcoming holiday. User feels their asset will rise in value in the short to
-medium term. The current method for exiting funds out of the crypto eco-system requires a user to trade the asset on a centralized exhange for a choice of Ethereum/Bitcoin or another asset and this incurrs high fees through a crypto bank for cash and then to withdraw funds. Making use of Bank-Boss users can trade the token they hold for stablecoins at an agreed amount, term, and rate of interest. Withdraw the cash to bank and repay loan over term. During the term of the loan the value of the asset held as collateral increases 2x. The user repays the loan in full to the lender capital + interest and the asset is released at the original price that the borrower recieved the funds for.
+medium term. The current method for exiting funds out of the crypto eco-system requires a user to trade the asset on a centralized exhange for a choice of Ethereum/Bitcoin or another asset and this incurrs high fees through a crypto bank for cash and then to withdraw funds. Making use of Defi users can trade the token they hold for stablecoins at an agreed amount, term, and rate of interest. Withdraw the cash to bank and repay loan over term. During the term of the loan the value of the asset held as collateral increases 2x. The user repays the loan in full to the lender capital + interest and the asset is released at the original price that the borrower recieved the funds for.
 
 ## Second case example user experience
 
