@@ -1,4 +1,4 @@
-# EthLondon-2023
+# Solana-Hack
 
 > ## Abstract
 Defi Bank is designed at its core to be simplistic and user friendly with the capability to allow borrowers and lenders to leverage their assets
@@ -12,19 +12,14 @@ assets back at the initial loan price plus interest. This creates a scenario whe
 
 > ## High-level overview of the project
 <p align="center">
-  <img width="900" height="600" src="https://github.com/Karlitoyo/BossBank-EthLondon/blob/main/eth-london-diagram.jpg">
+  <img width="900" height="600" src="https://github.com/Karlitoyo/BossBank-EthLondon/blob/main/sol-hack-diagram.jpg">
 </p>
-<!-- ![Alt text](eth-Page-1.drawio.png) -->
 
 > ## Project implementation
 Tech stack:
 - [Next](https://nextjs.org/) - Front end framework
-- [Ethereum](https://ethereum.org/en/) - Blockchain
+- [Solang](https://github.com/hyperledger/solang) - Blockchain
 - [Daisy UI](https://daisyui.com/) - CSS Framework
-- [Foundry](https://github.com/foundry-rs/foundry) - Testing Framework
-- [EtherSpot](https://etherspot.io/) - Account Abstraction / Transaction Bundling
-- [Flare](https://flare.network/) - On chain Oracles
-- [WormHole](https://wormhole.com/) - Cross Chain
 
  > ## UX
 
@@ -52,8 +47,6 @@ current mortgage holders who are struggling to meet regular repayments or who ma
 <p align="center">
   <img width="600" height="600" src="https://github.com/MIDAV0/solana-hackathon2023/assets/30006896/8b487bfd-904d-48a1-9d59-a2cffd238760">
 </p>
-
-<video src="https://github.com/Karlitoyo/BossBank-EthLondon/assets/30006896/89aced81-b114-4d84-97e4-61d6512a0f0d"></video>
 
 ### Lending Page:
 <p align="center">
@@ -99,7 +92,7 @@ We currently have development plans to include a machine learning algorithm to t
 Middle income user who has difficulty meeting loan obligations and struggles with regular savings -
 
 Individual who holds crypto assets requires stablecoin loan to make payment for an upcoming holiday. User feels their asset will rise in value in the short to
-medium term. The current method for exiting funds out of the crypto eco-system requires a user to trade the asset on a centralized exhange for a choice of Ethereum/Bitcoin or another asset and this incurrs high fees through a crypto bank for cash and then to withdraw funds. Making use of Defi users can trade the token they hold for stablecoins at an agreed amount, term, and rate of interest. Withdraw the cash to bank and repay loan over term. During the term of the loan the value of the asset held as collateral increases 2x. The user repays the loan in full to the lender capital + interest and the asset is released at the original price that the borrower recieved the funds for.
+medium term. The current method for exiting funds out of the crypto eco-system requires a user to trade the asset on a centralized exhange for a choice of Ethereum/Bitcoin/Solana or another asset and this incurrs high fees through a crypto bank for cash and then to withdraw funds. Making use of Defi users can trade the token they hold for stablecoins at an agreed amount, term, and rate of interest. Withdraw the cash to bank and repay loan over term. During the term of the loan the value of the asset held as collateral increases 2x. The user repays the loan in full to the lender capital + interest and the asset is released at the original price that the borrower recieved the funds for.
 
 ## Second case example user experience
 
@@ -109,7 +102,7 @@ Borrower has digital asset to the value of €1100 which the user places against
 decides not to continue with the repayment of the loan. The asset + €500 paid in the 5 monthly installments revert to the lender.
 
 > ## Instruction pipeline
-![Alt text](EthLondon-Instructions.drawio.png)
+![Alt text](Sol-hack-Instructions.drawio.png)
 
 > ## SWOT
 
@@ -135,24 +128,6 @@ Similiar models are in practice currently however, competiors make use of differ
 
 Threats relate to similar products. However this is an emerging space within the crypto industry. Threats also relate to the value of
 assets reducing leaving investor open to losses, similar to impairement loss currently faced through providing liquidity. The interest cost being fixed within the original asset collatoral can mitigate this risk.
-
-> ## Deployed contracts: 
-
-## Sample asset token -
-
-https://goerli.etherscan.io/token/0x9bfadcd7f4e48be85ba9ec70094a62017c6c73a8#code
-
-## Lending NFT contract -
-
-https://goerli.etherscan.io/address/0xc308e1ee919182964c4ba6981d111c53bea631a8#code
-
-## Sample Collateral Token -
-
-https://goerli.etherscan.io/address/0xff063796c38a2ad3411e96b7bd12ffb9755a068e#code
-
-## Main Platform token -
-
-https://goerli.etherscan.io/address/0x6a0d5d3e8d54aa453e62c4d1da566dc55f7b940a/advanced#code
 
 > ## How to run
 
