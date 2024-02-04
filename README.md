@@ -6,6 +6,10 @@ to create a decentralized platform releasing equity from assets held within the 
 sell their positions for a loss; or for a perceived loss. Defi Bank will allow them to lock their tokens at an agreed amount and make regular payments to recieve their 
 assets back at the initial loan price plus interest. This creates a scenario whereby should the locked asset increase in value to a greater amount within the duration of the loan agreement the borrower can realize the original value and take advantage of the increase in asset price once the loan + interest has been paid in full.
 
+I have attempted to migrate contracts existing within this project to the Solana chain however ran into compilation errors with regard to the migration of solidity to rust and then compiling using Solang. I have also looked at migratig the business logic to Codigo however the example given is a simplified version of the application we have developed.
+
+As a take away from this hackathon entry we have learnt that there is still alot of migration that needs to occur when porting from Solidity based evm to Solana.
+
 > ## Team Members
 - [Karl Timmins](https://github.com/Karlitoyo)
 - [Aqib Hassan](https://github.com/aqibhassan)
